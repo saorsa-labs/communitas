@@ -81,7 +81,7 @@ jobs:
         run: |
           # Run clippy with practical checks on library crates
           # Note: unwrap_used/expect_used excluded - too restrictive for test code,
-          # better caught in code review per CLAUDE.md policy
+          # better caught in code review per AGENTS.md policy
           # Excluded:
           # - clippy::unimplemented: flutter_rust_bridge generates unimplemented!() for web fallbacks
           cargo clippy --workspace \

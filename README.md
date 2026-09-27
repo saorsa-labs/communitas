@@ -178,7 +178,7 @@ To simulate authentication failures during QA, set `COMMUNITAS_UI_FORCE_AUTH_ERR
 ### Development
 - **[Contributing Guide](CONTRIBUTING.md)**: How to contribute
 - **[Windows Build](docs/development/windows-build.md)**: Windows setup notes
-- **[CLAUDE.md](CLAUDE.md)**: Project context for LLM helpers
+- **[AGENTS.md](AGENTS.md)**: Project context for coding agents
 
 ---
 

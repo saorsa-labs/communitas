@@ -4,7 +4,7 @@ This document captures baseline performance measurements for core Communitas ope
 
 ## Performance Targets
 
-From `CLAUDE.md`:
+Project targets:
 - **Message Latency**: <100ms local, <500ms remote
 - **Storage Operations**: <100ms local, <500ms with geographic routing
 - **UI Responsiveness**: 60fps, smooth animations
